@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<!-- Search, should appear as action button -->
+    <item android:id="@+id/action_mute"
+          android:icon="@drawable/sound_icon"
+          android:title="@string/action_mute"
+          android:showAsAction="always" />
+        <item android:id="@+id/action_play"
+          android:icon="@drawable/sound_off_icon"
+          android:title="@string/action_play"
+          android:showAsAction="always"
+          />"
+</menu>

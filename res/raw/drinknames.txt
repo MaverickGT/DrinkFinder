@@ -1,0 +1,88 @@
+#
+(0-9)
+747
+357 Magnum
+#
+(A)
+Ario Bomb
+After Dark
+ABC
+#
+(B)
+B52
+Baileys Martini
+Black Russian
+Berlin martini
+Black Cow
+#
+(C)
+Cranberry Bomber
+Cowboys Comet
+#
+(D)
+Deep Blue
+#
+(E)
+Eagle Eye
+#
+(F)
+Fallen Angel
+#
+(G)
+G4
+#
+(H)
+Hacker Special
+#
+(J)
+Jinx
+#
+(K)
+Kamikaze
+#
+(L)
+Long Island Ice Tea
+Loch Ness Monster
+#
+(M)
+Moscow Mule
+#
+(N)
+Napalm Death
+#
+(O)
+Orgasm
+#
+(P)
+Pacific Sunshine
+#
+(Q)
+Quick F**k
+#
+(R)
+RumCoke
+#
+(S)
+Sex on the Beach
+#
+(T)
+Tahitian Tea
+#
+(U)
+Ultimate Blue Frozen Margarita
+#
+(V)
+Vanilla Heaven
+#
+(W)
+White Russian
+#
+(X)
+X.Y.Z Cocktail
+#
+(Y)
+Yuppidoo
+#
+(Z)
+Zorro
+#
